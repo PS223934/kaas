@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cheese1';
+    src:url('/public/fonts/Cheese1.ttf.woff') format('woff'),
+        url('/public/fonts/Cheese1.ttf.svg#Cheese1') format('svg'),
+        url('/public/fonts/Cheese1.ttf.eot'),
+        url('/public/fonts/Cheese1.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+.cheese {
+    font-family: 'Cheese1';
+}
